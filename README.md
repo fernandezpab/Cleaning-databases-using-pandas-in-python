@@ -4,3 +4,7 @@
 You can find the python scripts in the folder called "Files py". All the data should be available from their original 
 sources. However, if you can not find it, the data is available in the folder called "Databases".
 
+In the file called "Databases and Sources.xlsx" you will find a resume of the databases that were cleaned.
+
+
+
