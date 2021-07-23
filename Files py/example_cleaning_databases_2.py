@@ -7,7 +7,6 @@ Created on Thu Jul 22 22:00:03 2021
 
 import pandas as pd
 from datetime import datetime
-import numpy as np
 import re
 
 # In this example we create a loop to take three spreadsheets at the same time
